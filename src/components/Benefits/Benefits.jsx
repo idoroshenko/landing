@@ -5,7 +5,6 @@ import { ReactComponent as TitleLine } from '../../images/svg/mobile/title-line.
 import { ReactComponent as CurlItem } from '../../images/svg/mobile/curl-item.svg';
 import { ReactComponent as XRingRight } from '../../images/svg/mobile/x-ring-right.svg';
 import { ReactComponent as XYellowBig } from '../../images/svg/mobile/x-yellow-big.svg';
-import { ReactComponent as Waves } from '../../images/svg/mobile/waves.svg';
 import imageSrc from '../../images/photos/benefits.png';
 import Button from '../Button/Button';
 
