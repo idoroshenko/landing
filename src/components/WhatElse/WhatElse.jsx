@@ -51,7 +51,7 @@ export const WhatElse = () => {
             rel="noreferrer"
           >
             {' '}
-            <Button isYellow={true} title="Придбати урок" />
+            <Button isYellow={true} title="Придбати за $13" />
           </a>
         </div>
       </div>

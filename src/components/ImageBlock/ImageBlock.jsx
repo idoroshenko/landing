@@ -26,7 +26,7 @@ export const ImageBlock = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                <Button isYellow={true} title="Купити урок" />
+                <Button isYellow={true} title="Придбати за $13" />
               </a>
             </div>
           )}
@@ -39,7 +39,7 @@ export const ImageBlock = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <Button isYellow={true} title="Купити урок" />
+              <Button isYellow={true} title="Придбати за $13" />
             </a>
           </div>
         )}

@@ -26,7 +26,7 @@ export const About = () => {
               <img
                 className="about_image"
                 src={imageSrc}
-                alt="Робота на Upwork"
+                alt="Фріланс на Upwork"
               />
             </>
           )}
@@ -66,7 +66,7 @@ export const About = () => {
           rel="noreferrer"
         >
           {' '}
-          <Button position="relative" isYellow={true} title="Купити" />
+          <Button position="relative" isYellow={true} title="Придбати за $13" />
         </a>
         {!isDesktop && <XBlue className="x-blue"></XBlue>}
       </div>

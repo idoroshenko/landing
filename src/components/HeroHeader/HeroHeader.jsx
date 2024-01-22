@@ -18,8 +18,7 @@ export const HeroHeader = () => {
       <div className="container">
         <h1 className="hero_title">
           Як почати працювати на{' '}
-          <span className="hero_title_span">Upwork </span>і знайти свою ІТ
-          професію
+          <span className="hero_title_span">Upwork </span>і стати фрілансером
         </h1>
 
         {isDesktop ? (
@@ -28,8 +27,8 @@ export const HeroHeader = () => {
             <div className="content">
               <div className="left_column>">
                 <p className="hero_text_1">
-                  Чи мрієте ви заробляти
-                  <span> високу зарплату</span> в доларах
+                  Чи мрієте ви працювати з
+                  <span> будь-якої точки світу</span>?
                 </p>
                 <div className="button-container">
                   <a
@@ -40,7 +39,7 @@ export const HeroHeader = () => {
                     <Button
                       className="desktop_button"
                       isYellow={true}
-                      title="Придбати"
+                      title="Придбати за $13"
                     />
                   </a>
                 </div>
@@ -68,9 +67,8 @@ export const HeroHeader = () => {
               <XYellow className="hero_xyellow" />
             </p>
             <p className="hero_text_2">
-              заробляти
-              <span className="hero_text_2_span"> високу зарплату</span> в
-              доларах
+              працювати з
+              <span className="hero_text_2_span"> будь-якої точки світу</span>
             </p>
             <p className="hero_text_3">
               Якщо так, то фріланс платформа
@@ -85,7 +83,7 @@ export const HeroHeader = () => {
                 rel="noreferrer"
               >
                 {' '}
-                <Button isYellow={true} title="Придбати" />
+                <Button isYellow={true} title="Придбати за $13" />
               </a>
             </div>
           </>

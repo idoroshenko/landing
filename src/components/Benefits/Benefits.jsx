@@ -25,14 +25,6 @@ export const Benefits = () => {
                   alt="Робота на Upwork"
                 />
               </div>
-              <div className="benefits_main_text">
-                <p>
-                  Давайте заробляти гроші разом! Гроші зароблені з-за кордону -
-                  це як
-                  <span> інвестиція </span>в економіку нашої улюбленої країни
-                  ❤️🇺🇦
-                </p>
-              </div>
             </div>
             <div className="benefits_right">
               <h2 className="benefits_title">
@@ -41,6 +33,12 @@ export const Benefits = () => {
               <TitleLine></TitleLine>
               <div className="benefits_wrapper"></div>
               <ul className="benefits_list">
+                <li className="benefits_item">
+                  <CurlItem className="benefits_svg"></CurlItem>
+                  <p className="benefits_text">Відео-урок про те, як заповнити профіль,
+                  шукати клієнтів та писати ефективні листи-заявки і
+                  комунікувати з клієнтами</p>
+                </li>
                 <li className="benefits_item">
                   <CurlItem className="benefits_svg"></CurlItem>
                   <p className="benefits_text">гайд по Upwork</p>
@@ -68,7 +66,7 @@ export const Benefits = () => {
                   rel="noreferrer"
                 >
                   {' '}
-                  <Button isYellow={true} title="Купити урок" />
+                  <Button isYellow={true} title="Придбати за $13" />
                 </a>{' '}
               </div>
             </div>
@@ -88,6 +86,12 @@ export const Benefits = () => {
             <TitleLine></TitleLine>
             <div className="benefits_wrapper"></div>
             <ul className="benefits_list">
+                <li className="benefits_item">
+                  <CurlItem className="benefits_svg"></CurlItem>
+                  <p className="benefits_text">Відео-урок про те, як заповнити профіль,
+                  шукати клієнтів та писати ефективні листи-заявки і
+                  комунікувати з клієнтами</p>
+                </li>
               <li className="benefits_item">
                 <CurlItem className="benefits_svg"></CurlItem>
                 <p className="benefits_text">гайд по Upwork</p>
@@ -108,14 +112,6 @@ export const Benefits = () => {
                 </p>
               </li>
             </ul>
-            <div className="benefits_main_text">
-              <p>
-                Давайте заробляти гроші разом! Гроші зароблені з-за кордону - це
-                як
-                <span> інвестиція </span>в економіку нашої улюбленої країни ❤️🇺🇦
-              </p>
-              <Waves className="benefits_waves"></Waves>
-            </div>
             <div className="button-container">
               <a
                 href="https://shop-18229.e3.co.ua/shop/lektsiya-upwork/"
@@ -123,7 +119,7 @@ export const Benefits = () => {
                 rel="noreferrer"
               >
                 {' '}
-                <Button isYellow={true} title="Купити урок" />
+                <Button isYellow={true} title="Придбати за $13" />
               </a>{' '}
             </div>
           </div>

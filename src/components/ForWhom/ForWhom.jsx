@@ -73,7 +73,7 @@ export const ForWhom = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <Button isYellow={true} title="Мені підходіть!" />
+            <Button isYellow={true} title="Придбати за $13" />
           </a>
         </div>
       </div>
