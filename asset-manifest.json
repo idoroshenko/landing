@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.85224004.css",
-    "main.js": "/static/js/main.8a3f6445.js",
+    "main.css": "/static/css/main.98efcdce.css",
+    "main.js": "/static/js/main.84e226ce.js",
     "static/media/footer.png": "/static/media/footer.2b32c4931345703f2a16.png",
     "static/media/fromNastya-desktop.png": "/static/media/fromNastya-desktop.265bb29abb8add5a658a.png",
     "static/media/benefits.png": "/static/media/benefits.dde69d7e97c9c2220abb.png",
@@ -26,7 +26,6 @@
     "static/media/forWhom.jpeg": "/static/media/forWhom.f72da2f46f3560aa7705.jpeg",
     "static/media/bulb.svg": "/static/media/bulb.571dc9291aff6c8ae80402c8f9107081.svg",
     "static/media/instagram.svg": "/static/media/instagram.55a6d3499f8b7c7eb0377142dd2b1a94.svg",
-    "static/media/waves.svg": "/static/media/waves.c1005b5de56353d5d53b06133bffaabf.svg",
     "static/media/big-waves.svg": "/static/media/big-waves.081b75a77c6b958a15fcbf810f2f9556.svg",
     "static/media/instagram_footer.svg": "/static/media/instagram_footer.88e80ca734e77b324452871b5b6eb2e3.svg",
     "static/media/upwork3.svg": "/static/media/upwork3.9eeb36c24c440f53be7eaf34591d5590.svg",
@@ -53,11 +52,11 @@
     "static/media/sub-desktop.svg": "/static/media/sub-desktop.d144ba69b3e03ad013e9f7822258d961.svg",
     "static/media/subparagraphs.svg": "/static/media/subparagraphs.7ec04044771f17572b0f46b9dd93e061.svg",
     "static/media/half-ring.svg": "/static/media/half-ring.89c8da41ba6bd70927fbcc50c8b943c1.svg",
-    "main.85224004.css.map": "/static/css/main.85224004.css.map",
-    "main.8a3f6445.js.map": "/static/js/main.8a3f6445.js.map"
+    "main.98efcdce.css.map": "/static/css/main.98efcdce.css.map",
+    "main.84e226ce.js.map": "/static/js/main.84e226ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.85224004.css",
-    "static/js/main.8a3f6445.js"
+    "static/css/main.98efcdce.css",
+    "static/js/main.84e226ce.js"
   ]
 }
