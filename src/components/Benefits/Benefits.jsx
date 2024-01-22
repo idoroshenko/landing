@@ -5,7 +5,6 @@ import { ReactComponent as TitleLine } from '../../images/svg/mobile/title-line.
 import { ReactComponent as CurlItem } from '../../images/svg/mobile/curl-item.svg';
 import { ReactComponent as XRingRight } from '../../images/svg/mobile/x-ring-right.svg';
 import { ReactComponent as XYellowBig } from '../../images/svg/mobile/x-yellow-big.svg';
-import { ReactComponent as Waves } from '../../images/svg/mobile/waves.svg';
 import imageSrc from '../../images/photos/benefits.png';
 import Button from '../Button/Button';
 
@@ -28,7 +27,7 @@ export const Benefits = () => {
             </div>
             <div className="benefits_right">
               <h2 className="benefits_title">
-                Після перегляду уроку ви отримаєте
+                Що ви отримаєте
               </h2>
               <TitleLine></TitleLine>
               <div className="benefits_wrapper"></div>
@@ -81,7 +80,7 @@ export const Benefits = () => {
           </div>
           <div className="container">
             <h2 className="benefits_title">
-              Після перегляду уроку ви отримаєте
+              Що ви отримаєте
             </h2>
             <TitleLine></TitleLine>
             <div className="benefits_wrapper"></div>
