@@ -66,7 +66,7 @@ export const About = () => {
           rel="noreferrer"
         >
           {' '}
-          <Button position="relative" isYellow={true} title="Придбати за $13" />
+          <Button position="relative" isYellow={true} title="Придбати за $30" />
         </a>
         {!isDesktop && <XBlue className="x-blue"></XBlue>}
       </div>

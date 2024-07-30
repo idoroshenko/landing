@@ -112,7 +112,7 @@ export const FromNastya = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <Button isYellow={true} title="Придбати за $13" />
+          <Button isYellow={true} title="Придбати за $30" />
         </a>
       </div>
     </div>

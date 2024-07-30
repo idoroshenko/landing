@@ -39,7 +39,7 @@ export const HeroHeader = () => {
                     <Button
                       className="desktop_button"
                       isYellow={true}
-                      title="Придбати за $13"
+                      title="Придбати за $30"
                     />
                   </a>
                 </div>
@@ -83,7 +83,7 @@ export const HeroHeader = () => {
                 rel="noreferrer"
               >
                 {' '}
-                <Button isYellow={true} title="Придбати за $13" />
+                <Button isYellow={true} title="Придбати за $30" />
               </a>
             </div>
           </>

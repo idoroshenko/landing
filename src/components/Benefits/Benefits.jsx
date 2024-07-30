@@ -65,7 +65,7 @@ export const Benefits = () => {
                   rel="noreferrer"
                 >
                   {' '}
-                  <Button isYellow={true} title="Придбати за $13" />
+                  <Button isYellow={true} title="Придбати за $30" />
                 </a>{' '}
               </div>
             </div>
@@ -118,7 +118,7 @@ export const Benefits = () => {
                 rel="noreferrer"
               >
                 {' '}
-                <Button isYellow={true} title="Придбати за $13" />
+                <Button isYellow={true} title="Придбати за $30" />
               </a>{' '}
             </div>
           </div>
